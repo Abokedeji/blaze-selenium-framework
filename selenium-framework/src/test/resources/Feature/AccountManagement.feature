@@ -9,7 +9,7 @@ Feature: Account Management
     Then User should be created successfully
     Examples:
       | Username      | Password |
-      | abi22@gmail.com | Task124  |
+      | abi23@gmail.com | Task124  |
 
 
 
@@ -23,6 +23,6 @@ Feature: Account Management
 
     Examples:
       | Username      | Password |
-      | abi22@gmail.com | Task123  |
+      | abi23@gmail.com | Task123  |
 
 
